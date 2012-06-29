@@ -62,31 +62,59 @@
         <category>Esportes</category>
         <questions>
             <question>
-                <enunciation>Questão 1</enunciation>
+                <enunciation>Qual foi o primeiro representante do Brasil na Libertadores?</enunciation>
                 <answer>0</answer>
                 <propositions>
-                    <proposition>Opção1</proposition>
-                    <proposition>Opção2</proposition>
-                    <proposition>Opção3</proposition>
+                    <proposition>Bahia</proposition>
+                    <proposition>Internacional</proposition>
+                    <proposition>Santos</proposition>
+                    <proposition>Corinthians</proposition>
+                    <proposition>Flamengo</proposition>
                 </propositions>
             </question>
             <question>
-                <enunciation>Questão 2</enunciation>
-                <answer>1</answer>
-                <propositions>
-                    <proposition>Alternativa A</proposition>
-                    <proposition>Alternativa B</proposition>
-                    <proposition>Alternativa C</proposition>
-                </propositions>
-            </question>
-            <question>
-                <enunciation>Questão 3</enunciation>
+                <enunciation>Qual jogador Brasileiro ganhou 3 edições do Roland-Garros?</enunciation>
                 <answer>2</answer>
                 <propositions>
-                    <proposition>Verdadeiro</proposition>
-                    <proposition>Falso</proposition>
+                    <proposition>Rafael Nadal</proposition>
+                    <proposition>Thomaz Bellucci</proposition>
+                    <proposition>Gustavo Kuerten</proposition>
+                    <proposition>Robson Ximenes</proposition>
                 </propositions>
             </question>
+            <question>
+                <enunciation>Qual o placar de Brasil X Suécia no quadrangular final da Copa de 1950 ?</enunciation>
+                <answer>0</answer>
+                <propositions>
+                    <proposition>Brasil 7 x 1 Suécia</proposition>
+                    <proposition>Brasil 6 x 1 Suécia</proposition>
+                    <proposition>Brasil 5 x 1 Suécia</proposition>
+                    <proposition>Brasil 4 x 1 Suécia</proposition>
+                </propositions>
+            </question>
+            <question>
+                <enunciation>Em que ano a seleção brasileira de futebol ganhou o primeiro título?</enunciation>
+                <answer>1</answer>
+                <propositions>
+                    <proposition>1950</proposition>
+                    <proposition>1958</proposition>
+                    <proposition>1954</proposition>
+                    <proposition>1938</proposition>
+                </propositions>
+            </question>
+            <question>
+                <enunciation>Qual jogador mais fez gols pela seleção brasileira ?</enunciation>
+                <answer>5</answer>
+                <propositions>
+                    <proposition>Souza</proposition>
+                    <proposition>Romário</proposition>
+                    <proposition>Bebeto</proposition>
+                    <proposition>Beijoca</proposition>
+                    <proposition>Ronaldo</proposition>
+                    <proposition>Pelé</proposition>
+                </propositions>
+            </question>
+            
         </questions>      
     </quiz>
 </quizes>
