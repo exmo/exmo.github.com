@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizes>
+    <quiz>
+        <category>Cinema</category>
+        <questions>
+            <question>
+                <enunciation>Questão 1</enunciation>
+                <answer>0</answer>
+                <propositions>
+                    <proposition>Opção1</proposition>
+                    <proposition>Opção2</proposition>
+                    <proposition>Opção3</proposition>
+                </propositions>
+            </question>
+            <question>
+                <enunciation>Questão 2</enunciation>
+                <answer>1</answer>
+                <propositions>
+                    <proposition>Alternativa A</proposition>
+                    <proposition>Alternativa B</proposition>
+                    <proposition>Alternativa C</proposition>
+                </propositions>
+            </question>
+            <question>
+                <enunciation>Questão 3</enunciation>
+                <answer>2</answer>
+                <propositions>
+                    <proposition>Verdadeiro</proposition>
+                    <proposition>Falso</proposition>
+                </propositions>
+            </question>
+        </questions>      
+    </quiz>
+    <quiz>
+        <category>Esportes</category>
+        <questions>
+            <question>
+                <enunciation>Questão 1</enunciation>
+                <answer>0</answer>
+                <propositions>
+                    <proposition>Opção1</proposition>
+                    <proposition>Opção2</proposition>
+                    <proposition>Opção3</proposition>
+                </propositions>
+            </question>
+            <question>
+                <enunciation>Questão 2</enunciation>
+                <answer>1</answer>
+                <propositions>
+                    <proposition>Alternativa A</proposition>
+                    <proposition>Alternativa B</proposition>
+                    <proposition>Alternativa C</proposition>
+                </propositions>
+            </question>
+            <question>
+                <enunciation>Questão 3</enunciation>
+                <answer>2</answer>
+                <propositions>
+                    <proposition>Verdadeiro</proposition>
+                    <proposition>Falso</proposition>
+                </propositions>
+            </question>
+        </questions>      
+    </quiz>
+</quizes>
