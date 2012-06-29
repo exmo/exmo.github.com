@@ -4,31 +4,58 @@
         <category>Cinema</category>
         <questions>
             <question>
-                <enunciation>Questão 1</enunciation>
-                <answer>0</answer>
-                <propositions>
-                    <proposition>Opção1</proposition>
-                    <proposition>Opção2</proposition>
-                    <proposition>Opção3</proposition>
-                </propositions>
-            </question>
-            <question>
-                <enunciation>Questão 2</enunciation>
-                <answer>1</answer>
-                <propositions>
-                    <proposition>Alternativa A</proposition>
-                    <proposition>Alternativa B</proposition>
-                    <proposition>Alternativa C</proposition>
-                </propositions>
-            </question>
-            <question>
-                <enunciation>Questão 3</enunciation>
+                <enunciation>Quantas pessoas Jason matou nos 10 filmes da série Sexta-feira 13?</enunciation>
                 <answer>2</answer>
                 <propositions>
-                    <proposition>Verdadeiro</proposition>
-                    <proposition>Falso</proposition>
+                    <proposition>7</proposition>
+                    <proposition>15</proposition>
+                    <proposition>171</proposition>
+                    <proposition>120</proposition>
                 </propositions>
             </question>
+            <question>
+                <enunciation>Qual é a raça do Scooby-Doo?</enunciation>
+                <answer>1</answer>
+                <propositions>
+                    <proposition>vira-lata</proposition>
+                    <proposition>dogue-alemão</proposition>
+                    <proposition>dalmata</proposition>
+                    <proposition>poodle</proposition>
+                    <proposition>yorshire</proposition>
+                </propositions>
+            </question>
+            <question>
+                <enunciation>Qual é o bordão invariavelmente dito pelo personagem Michelangelo, no desenho "As Tartarugas Ninja" ?</enunciation>
+                <answer>3</answer>
+                <propositions>
+                    <proposition>Santa tartaruga!</proposition>
+                    <proposition>Bonggerang!</proposition>
+                    <proposition>Vai planeta!</proposition>
+                    <proposition>Cowabunga!</proposition>
+                </propositions>
+            </question>
+            <question>
+                <enunciation>Que habilidade especial os cavaleiros Jedi ( pricipalmente Luke, o herói ) possuíam, na trilogia "Guerra nas Estrelas"?</enunciation>
+                <answer>3</answer>
+                <propositions>
+                    <proposition>A energia</proposition>
+                    <proposition>O poder</proposition>
+                    <proposition>A força</proposition>
+                    <proposition>Audição</proposition>
+                </propositions>
+            </question>
+            <question>
+                <enunciation>Que problema era enfrentado pelo casal de heróis do filme "Velocidade Máxima"?</enunciation>
+                <answer>3</answer>
+                <propositions>
+                    <proposition>Tirar 80 bombas de um tribunal em 30 minutos</proposition>
+                    <proposition>Frear um barco, a 450 km\h, antes que ela bata num presídio</proposition>
+                    <proposition>Viajar no tempo até o ano 2014 antes do vilão da história</proposition>
+                    <proposition>Manter um ônibus comum a 80 km\h</proposition>
+                    <proposition>Perseguir uma gangue de traficantes antes que cruzem a fronteira dos EUA com o México</proposition>
+                </propositions>
+            </question>
+          
         </questions>      
     </quiz>
     <quiz>
