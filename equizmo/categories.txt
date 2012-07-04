@@ -1,4 +1,3 @@
 Cinema
 Esportes
-Música
-Tecnologia
+
