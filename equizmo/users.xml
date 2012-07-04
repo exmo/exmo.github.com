@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+	    <email>serge.rehem@gmail.com</email>
+	    <name>Serge Rehem</name>
+	    <latitude>10</latitude>
+	    <longitude>10</longitude>
+	    <points>10</points>
+	</user>
+	<user>
+	    <email>marlon.carvalho@gmail.com</email>
+	    <name>Marlon Carvalho</name>
+	    <latitude>20</latitude>
+	    <longitude>20</longitude>
+	    <points>20</points>
+	</user>
+	<user>
+	    <email>robson.ximenes@gmail.com</email>
+	    <name>Robson Ximenes</name>
+	    <latitude>30</latitude>
+	    <longitude>30</longitude>
+	    <points>30</points>
+	</user>	
+</users>
