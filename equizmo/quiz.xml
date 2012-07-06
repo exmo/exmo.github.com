@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<quizes>
+<quizzes>
     <quiz>
         <category>Cinema</category>
         <questions>
@@ -155,6 +155,4 @@
             </question>
         </questions>      
     </quiz>
-    
-    
-</quizes>
+</quizzes>
